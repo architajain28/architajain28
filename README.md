@@ -23,5 +23,5 @@ I work at the intersection of **AI safety, privacy UX, and full-stack software s
 
 ### 📬 Connect With Me
 * 🌐 **Portfolio:** [architajain28.github.io/portfolio](https://architajain28.github.io/portfolio/)
-* 💼 **LinkedIn:** [linkedin.com/in/jain-archita]([https://www.linkedin.com/jain-archita](https://www.linkedin.com/in/jain-archita/)
-* ✉️ **Email:** [architaj@andrew.cmu.edu](mailto:architaj@andrew.cmu.edu)](https://www.linkedin.com/in/jain-archita/)
+* 💼 **LinkedIn:** [linkedin.com/in/jain-archita](https://www.linkedin.com/in/jain-archita/)
+* ✉️ **Email:** [architaj@andrew.cmu.edu](mailto:architaj@andrew.cmu.edu)
