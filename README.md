@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Archita! 👋
 
-<!--
-**architajain28/architajain28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an HCI researcher and full-stack developer studying Computer Science and Human-Computer Interaction at Carnegie Mellon University. 
 
-Here are some ideas to get you started:
+I work at the intersection of **AI safety, privacy UX, and full-stack software systems**, building tools that translate complex technology into intuitive human experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Focused On
+* 🛡️ **Privacy & LLMs:** Researching real-time developer privacy risk detection at **SPUD Lab CMU**.
+* 🌐 **Full-Stack & UX:** Building web platforms, design systems, and frontend interfaces for community & research initiatives.
+* 🤖 **Applied AI:** Optimizing LLM backend architectures, prompt engineering pipelines, and multimodal media models.
+
+---
+
+### 🛠️ Tech & Tools
+* **Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS
+* **Frameworks & Libraries:** React.js, Node.js, Django, PyTorch, Tailwind CSS
+* **Design & Product:** Figma, Rapid Prototyping, Wireframing, User Research
+* **Tools:** Git, GitHub, REST APIs, OpenAI API
+
+---
+
+### 📬 Connect With Me
+* 🌐 **Portfolio:** [architajain28.github.io/portfolio](https://architajain28.github.io/portfolio/)
+* 💼 **LinkedIn:** [linkedin.com/in/archita-jain](https://www.linkedin.com/archita-jain)
+* ✉️ **Email:** [architaj@andrew.cmu.edu](mailto:architaj@andrew.cmu.edu)
